@@ -2,4 +2,6 @@
 python youtube downloader.....i-guess
 
 
-btw, you must have python intreperter and pytube installed to make sure to run this script
+btw, you must have python intreperter, for me i use PyCharm by JetBrains. 
+
+and make sure you had download pytube as well.
